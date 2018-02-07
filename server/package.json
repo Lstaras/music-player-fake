@@ -12,7 +12,7 @@
     "vuejs",
     "vue.js"
   ],
-  "author": "",
+  "author": "lstaras",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.1",
