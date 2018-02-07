@@ -12,13 +12,14 @@
 </head>
 
 <body class="page">
-  <header class="header">
+  <header class="header"  id="app">
     <a href="assets/home.html"><i class="fa fa-expand"></i></a>
-    <h1><i class="fa fa-music"></i> Music Player</h1>
+    <h1><i class="fa fa-music"></i>Music Player</h1>
+    <!-- <input v-model="message"> -->
     <a href="assets/list.html"><i class="fa fa-list"></i></a>
   </header>
   <section class="main">
-    <img src="assets/img/home.png" alt="" width="100%">
+    <router-view></router-view>
   </section>
 
 
