@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "nodemon",
-    "client": "browser-sync start --server client --files \"client/**/*.html, client/**/*.js, client/**/*.css\" --no-notify"
+    "start": "node index",
   },
   "keywords": [
     "music player",
@@ -13,7 +12,7 @@
     "vuejs",
     "vue.js"
   ],
-  "author": "iceStone <ice@micua.com> (http://blog.wedn.net/)",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.1",
@@ -29,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/music-player.git"
+    "url": "git+https://github.com/lstaras/music-player-fake.git"
   },
   "bugs": {
-    "url": "https://github.com/zce/music-player/issues"
+    "url": "https://github.com/lstaras/music-player-fake/issues"
   },
-  "homepage": "https://github.com/zce/music-player#readme"
+  "homepage": "https://github.com/lstaras/music-player-fake#readme"
 }

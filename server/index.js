@@ -2,7 +2,7 @@
  * 分发
  */
 
-const app = require('./server/app')
+const app = require('./app')
 
 // 日志记录
 // 开发阶段额外的东西

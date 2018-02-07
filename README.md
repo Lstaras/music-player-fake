@@ -2,6 +2,6 @@
 Date:2/7/2018 11:44:00 AM 
 
 ## Server端
-已有源代码，用于CRUD，基于NODE.js
+已有源代码，用于CRUD，基于Express
 ## Client端
 使用VUE框架
